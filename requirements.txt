@@ -1,0 +1,3 @@
+pymongo
+PySimpleGui
+opencv-python
