@@ -19,3 +19,6 @@ y visualizar en una lista desplegable con cada uno de los elementos segmentados 
 de Lenguaje Natural.
 
 Cambio 1
+
+Hicimos cambio en la rama release
+
