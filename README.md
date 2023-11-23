@@ -18,3 +18,4 @@ y generar el texto o los calculos de acuerdo a las variables de entrada, o bien,
 y visualizar en una lista desplegable con cada uno de los elementos segmentados mediante Procesamiento
 de Lenguaje Natural.
 
+Cambio 1
