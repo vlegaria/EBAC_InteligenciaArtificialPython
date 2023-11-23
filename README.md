@@ -20,5 +20,5 @@ de Lenguaje Natural.
 
 Cambio 1
 
-En este punto ya se creo la rama develop y feaute.
-Ahora estamos haciendo un cambio en la rama feauture
+Hicimos cambio en la rama release
+
